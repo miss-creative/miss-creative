@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miss\_Creative
 ======================================================================================================================================
 
-I've been learning Graphic Design for past year and I found that I also have a strong passion for programming so I started my programming journey with python then HTML and now I'm working with CSS
+I've been learning Graphic Design for past year and I found that I also have a strong passion for programming so I started my programming journey with python then HTML, CSS and now I'm working on Java Script.
 
 * 🌍  I'm based in Earth
 * ✉️  You can contact me at [miss.creative.7861@gmail.com](mailto:miss.creative.7861@gmail.com)
