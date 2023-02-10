@@ -3,10 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I've been learning Graphic Design for past year and I found that I also have a strong passion for programming so I started my programming journey with python then HTML, CSS and now I'm working on Java Script.
 
-* 🌍  I'm based in Earth
+* 🌍  I'm based in Earth.
 * ✉️  You can contact me at [miss.creative.7861@gmail.com](mailto:miss.creative.7861@gmail.com)
-* 🧠  I'm learning css and java
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm learning JavaScript.
+* 🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.twitter.com/CreativeMiz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CreativeMiz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
